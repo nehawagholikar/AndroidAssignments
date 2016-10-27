@@ -1,0 +1,156 @@
+{
+    "contact": 
+    [
+        {
+        	"contactId" : 1001,
+            "firstName": "John",
+            "lastName": "Smith",
+            "age": "25",
+             "address":
+              {
+				"streetAddress": "21 2nd Street",
+				"city": "New York",
+				"state": "NY",
+				"postalCode": "10021"
+		     },
+		     "phoneNumber": 
+		     {
+				"type": "home",
+				"number": "212 555-1234"
+		   	}
+            
+        },
+        {
+        	"contactId" : 1002,
+			"firstName": "Will",
+			"lastName": "Smith",
+			"age": 28,
+			"address":
+			 {
+				"streetAddress": "new out going Street",
+				"city": "New York",
+				"state": "NY",
+				"postalCode": "10025"
+			},
+			"phoneNumber":
+			 {
+				"type": "home",
+				"number": "212 555-1235"
+			}
+		}, 
+		{
+		"contactId" : 1003,
+		"firstName": "Valentino",
+		"lastName": "DLord",
+		"age": 26,
+		"address": {
+			"streetAddress": "new colony Street",
+			"city": "New York",
+			"state": "NY",
+			"postalCode": "10040"
+		},
+		"phoneNumber": {
+			"type": "home",
+			"number": "212 555-1236"
+		}
+	}, 
+	{
+		"contactId" : 1004,
+		"firstName": "Lonardo",
+		"lastName": "DCaprio",
+		"age": 33,
+		"address": {
+			"streetAddress": "hollywood Street",
+			"city": "New York",
+			"state": "NY",
+			"postalCode": "10050"
+		},
+		"phoneNumber": {
+			"type": "home",
+			"number": "212 555-1238"
+		}
+	}, 
+	{
+		"contactId" : 1005,
+		"firstName": "Tom",
+		"lastName": "Cruise",
+		"age": 40,
+		"address": {
+			"streetAddress": "new cars villa",
+			"city": "New York",
+			"state": "NY",
+			"postalCode": "10060"
+		},
+		"phoneNumber": {
+			"type": "home",
+			"number": "212 555-1240"
+		}
+	}, 
+	{
+		"contactId" : 1006,
+		"firstName": "Angilena",
+		"lastName": "Juley",
+		"age": 35,
+		"address": {
+			"streetAddress": "Pallon D Craft street",
+			"city": "New York",
+			"state": "NY",
+			"postalCode": "10070"
+		},
+		"phoneNumber": {
+			"type": "home",
+			"number": "212 555-1250"
+		}
+			},
+			 {
+			 "contactId" : 1007,
+		"firstName": "Kat",
+		"lastName": "Winslet",
+		"age": 40,
+		"address": {
+			"streetAddress": "New Hollywood street",
+			"city": "New York",
+			"state": "NY",
+			"postalCode": "10080"
+		},
+		"phoneNumber": {
+			"type": "home",
+			"number": "212 555-1251"
+		}
+		}, 
+		{
+		"contactId" : 1008,
+		"firstName": "Peter",
+		"lastName": "Jackson",
+		"age": 42,
+		"address": {
+			"streetAddress": "Glof Villa street",
+			"city": "New York",
+			"state": "NY",
+			"postalCode": "10090"
+		},
+		"phoneNumber": {
+			"type": "home",
+			"number": "212 555-1252"
+		}
+	}, 
+	{
+		"contactId" : 1009,
+		"firstName": "King",
+		"lastName": "Don",
+		"age": 44,
+		"address": {
+			"streetAddress": "King street",
+			"city": "New York",
+			"state": "NY",
+			"postalCode": "10095"
+		},
+		"phoneNumber": {
+			"type": "home",
+			"number": "212 555-1255"
+		}
+}
+        
+		   
+     ]
+ }
